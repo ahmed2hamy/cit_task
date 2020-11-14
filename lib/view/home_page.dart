@@ -28,8 +28,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 [
                   AccountsCard(),
                   PopularCard(),
-                  AccountsCard(),
-                  PopularCard(),
                   SizedBox(height: 30),
                 ],
               ),
